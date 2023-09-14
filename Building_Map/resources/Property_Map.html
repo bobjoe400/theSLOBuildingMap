@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <object type-=""image/svg+xml" data= "Property_Map.svg" id="property_svg"/>
+    <script>
+        var a = document.getElementById("property_svg");
+
+        a.addEventListener("load", function(){
+
+            var svgDoc = a.contentDocument;
+            var delta = svgDoc.getElementById("bldg1_outline");
+
+            delta.addEventListener("mousedown", function(){
+                alert('helloWorld!');
+            },false);
+        },false);
+    </script>
+</html>

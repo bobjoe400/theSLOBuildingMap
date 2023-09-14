@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="185"
+     height="430"
+     viewBox="0 0 185 430"
+     version="1.1"
+     id="svg1"
+     xml:space="preserve"
+     inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+     sodipodi:docname="Property_Map.svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:svg="http://www.w3.org/2000/svg">
+  
+  <sodipodi:namedview id="namedview1"
+                      pagecolor="#ffffff"
+                      bordercolor="#000000"
+                      borderopacity="0.25"
+                      inkscape:showpageshadow="2"
+                      inkscape:pageopacity="0.0"
+                      inkscape:pagecheckerboard="false"
+                      inkscape:deskcolor="#d1d1d1"
+                      inkscape:document-units="px"
+                      inkscape:zoom="4.0298682"
+                      inkscape:cx="60.175665"
+                      inkscape:cy="107.8199"
+                      inkscape:window-width="960"
+                      inkscape:window-height="1017"
+                      inkscape:window-x="-8"
+                      inkscape:window-y="-8"
+                      inkscape:window-maximized="0"
+                      inkscape:current-layer="bldg1" />
+  
+  <defs id="defs1">
+    <pattern inkscape:collect="always"
+             xlink:href="#pattern6-7"
+             preserveAspectRatio="xMidYMid"
+             id="pattern124"
+             patternTransform="translate(190,350)" />
+    <pattern patternUnits="userSpaceOnUse"
+             width="29"
+             height="20"
+             patternTransform="translate(190,350)"
+             preserveAspectRatio="xMidYMid"
+             style="fill:#000000"
+             id="pattern6-7"
+             inkscape:label=""
+             inkscape:collect="always"
+             inkscape:isstock="true">
+      <path style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-dasharray:none;paint-order:stroke markers fill;stop-color:#000000"
+            d="M 0,5 C 19,5 10,15 29,15"
+            id="path4-2"
+            sodipodi:nodetypes="cc" />
+    </pattern>
+  </defs>
+  
+  <g inkscape:groupmode="layer"
+     id="bldg_map"
+     transform="matrix(0.92605563,0,0,0.92911119,-0.22477722,-0.64281274)">
+    <title id="title105">Building Map</title>
+    <g id="bldg1">
+      <title id="bldg1_title"
+             style="fill:url(#pattern124);fill-opacity:1">Building 1</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="155.01268"
+            y="374.35281"
+            id="bldg1_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan62"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="155.01268"
+               y="374.35281">1</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 132.56802,341.36203 57.95,12.32445 -8.48949,42.4918 -57.95,-12.69235 z"
+            id="bldg1_outline"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg2">
+      <title id="bldg2_title">Building 2</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="159.25041"
+            y="287.93939"
+            id="bldg2_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan51"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="159.25041"
+               y="287.93939">2</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 167.2665,249.96832 -36.14606,21.5735 27.80964,47.43206 36.67035,-21.98188 z"
+            id="bldg2_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg3">
+      <title id="bldg3_title">Building 3</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="133.60396"
+            y="240.93309"
+            id="blg3_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan139"
+               style="stroke-width:1"
+               x="133.60396"
+               y="240.93309">3</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 139.23341,202.363 -36.51701,21.43378 28.00609,47.02151 36.17261,-21.42984 z"
+            id="bldg3_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg4">
+      <title id="bldg4_title">Building 4</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="104.15955"
+            y="191.94492"
+            id="bldg4_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan49"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="104.15955"
+               y="191.94492">4</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 110.28312,152.40229 -36.379553,22.41924 28.514573,48.4533 36.52036,-21.4957 z"
+            id="bldg4_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg5">
+      <title id="bldg6_title">Buliding 5</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="36.539654"
+            y="39.938328"
+            id="bldg5_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan44"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="36.539654"
+               y="39.938328">5</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="M 59.25807,67.176603 60.801008,9.9797784 17.368047,9.3119539 15.481727,66.031382 Z"
+            id="bldg5_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg6">
+      <title id="title1">Building 6</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="34.144398"
+            y="99.08271"
+            id="bldg6_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan45"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="34.144398"
+               y="99.08271">6</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 57.766852,123.81384 1.533193,-57.022651 -43.842642,-1.08702 -1.557672,57.312561 43.867121,0.79711"
+            id="bldg6_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg7">
+      <title id="bldg7_title">Building 7</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="32.670391"
+            y="184.39064"
+            id="bldg7_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan46"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="32.670391"
+               y="184.39064">7</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 14.130423,151.52855 43.231801,0.96571 -0.880498,52.31162 -43.682269,-0.6935 z"
+            id="bldg7_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg8">
+      <title id="bldg8_title">Building 8</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="31.01214"
+            y="234.13826"
+            id="bldg8_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan47"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="31.01214"
+               y="234.13826">8</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 56.488761,205.3315 -43.694037,-0.66206 -1.281321,53.2136 43.864867,0.91691 z"
+            id="bldg8_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg9">
+      <title id="bldg9_title">Building 9</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="28.616886"
+            y="289.59763"
+            id="bldg9_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan48"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="28.616886"
+               y="289.59763">9</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 11.547978,258.59685 43.799983,1.01013 -1.208954,53.539 -43.913072,-1.48625 z"
+            id="bldg9_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg10">
+      <title id="bldg10_title">Building 10</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="26.774382"
+            y="361.08676"
+            id="bldg10_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan57"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="26.774382"
+               y="361.08676">10</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 12.97696,327.56598 41.547065,1.42887 -1.680207,54.84317 -41.575569,-0.9673 z"
+            id="bldg10_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg11">
+      <title id="bldg11_title">Building 11</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="25.300379"
+            y="417.83591"
+            id="bldg11_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan59"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="25.300379"
+               y="417.83591">11</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 11.22539,383.53981 41.624025,0.86585 -2.131137,59.9668 -41.5246777,-1.47158 z"
+            id="bldg11_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg12">
+      <title id="bldg12_title">Building 12</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="88.314018"
+            y="429.99646"
+            id="bldg12_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan60"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="88.314018"
+               y="429.99646">12</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 78.118225,392.09651 41.030625,7.56939 -10.20375,56.47916 -41.340122,-8.09368 z"
+            id="bldg12_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="bldg13">
+      <title id="bldg13_title">Building 13</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9369px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            x="88.682518"
+            y="369.93079"
+            id="bldg13_label"
+            transform="scale(1.0016484,0.99835431)">
+        <tspan sodipodi:role="line"
+               id="tspan61"
+               style="fill:#000000;fill-opacity:1;stroke-width:1"
+               x="88.682518"
+               y="369.93079">13</tspan>
+      </text>
+      <path style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 78.493671,333.26835 41.155569,7.72578 -10.51958,55.91994 -42.262898,-7.35789 z"
+            id="bldg13_outline"
+            onmouseout="this.style.fill=&quot;none&quot;"
+            onmouseover="this.style.fill=&quot;#014b92b9&quot;"
+            pointer-events="visible" />
+    </g>
+    <g id="mtncshp">
+      <title id="mtncshp_title">Maintenance Shop</title>
+      <text xml:space="preserve"
+            style="font-size:3.175px;inline-size:29.759;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+            x="27.408144"
+            y="128.51413"
+            id="mntcshp_label"
+            transform="matrix(1.2540276,0.01982589,-0.00422528,1.2538616,-11.829776,-31.381238)">
+        <tspan x="27.408144"
+               y="128.51413"
+               id="tspan6">Maintenance Shop</tspan>
+      </text>
+      <path style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 19.556647,123.75398 -0.241888,10.56932 38.217232,0.6011 0.219339,-10.5851 z"
+            id="mntcshp_outline" />
+    </g>
+    <g id="laundryrm">
+      <title id="laundryrm_title">Laundry Room</title>
+      <text xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.46846px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';white-space:pre;inline-size:33.1546;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.539036;stroke-dasharray:none"
+            x="108.73734"
+            y="268.62683"
+            id="laundryrm_label"
+            transform="matrix(0.66924354,-0.2141524,0.21485901,0.66704262,-49.626367,116.32965)">
+        <tspan x="108.73734"
+               y="268.62683"
+               id="tspan7">Laundry</tspan>
+        <tspan x="108.73734"
+               y="276.7124"
+               id="tspan8">Room</tspan>
+      </text>
+      <path style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+            d="m 74.618035,260.97711 20.116398,-6.43815 8.304937,25.93655 -20.485509,6.6221 z"
+            id="laundryrm_outline" />
+    </g>
+  </g>
+</svg>
