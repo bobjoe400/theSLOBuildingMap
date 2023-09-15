@@ -81,7 +81,8 @@
             id="bldg1_outline"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
             onmouseout="this.style.fill=&quot;none&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg2">
       <title id="bldg2_title">Building 2</title>
@@ -102,7 +103,8 @@
             id="bldg2_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg3">
       <title id="bldg3_title">Building 3</title>
@@ -123,7 +125,8 @@
             id="bldg3_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg4">
       <title id="bldg4_title">Building 4</title>
@@ -144,7 +147,8 @@
             id="bldg4_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg5">
       <title id="bldg6_title">Buliding 5</title>
@@ -165,7 +169,8 @@
             id="bldg5_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg6">
       <title id="title1">Building 6</title>
@@ -186,7 +191,8 @@
             id="bldg6_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg7">
       <title id="bldg7_title">Building 7</title>
@@ -207,7 +213,8 @@
             id="bldg7_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg8">
       <title id="bldg8_title">Building 8</title>
@@ -228,7 +235,8 @@
             id="bldg8_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg9">
       <title id="bldg9_title">Building 9</title>
@@ -249,7 +257,8 @@
             id="bldg9_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg10">
       <title id="bldg10_title">Building 10</title>
@@ -270,7 +279,8 @@
             id="bldg10_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg11">
       <title id="bldg11_title">Building 11</title>
@@ -291,7 +301,8 @@
             id="bldg11_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg12">
       <title id="bldg12_title">Building 12</title>
@@ -312,7 +323,8 @@
             id="bldg12_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="bldg13">
       <title id="bldg13_title">Building 13</title>
@@ -333,7 +345,8 @@
             id="bldg13_outline"
             onmouseout="this.style.fill=&quot;none&quot;"
             onmouseover="this.style.fill=&quot;#014b92b9&quot;"
-            pointer-events="visible" />
+            pointer-events="visible"
+            class = "outline" />
     </g>
     <g id="mtncshp">
       <title id="mtncshp_title">Maintenance Shop</title>

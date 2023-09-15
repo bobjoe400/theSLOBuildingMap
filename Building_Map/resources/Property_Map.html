@@ -3,15 +3,28 @@
     <object type-=""image/svg+xml" data= "Property_Map.svg" id="property_svg"/>
     <script>
         var a = document.getElementById("property_svg");
+        var building_outlines;
+        const bo_connected = new Map();
 
         a.addEventListener("load", function(){
-
-            var svgDoc = a.contentDocument;
-            var delta = svgDoc.getElementById("bldg1_outline");
-
-            delta.addEventListener("mousedown", function(){
-                alert('helloWorld!');
-            },false);
+            var svg_doc = a.contentDocument;
+            building_outlines = svg_doc.getElementsByClassName("outline");
+            for(let i = 0; i < building_outlines.length; i++){
+                var curr_building = building_outlines[i];
+                bo_connected.set(curr_building.id, false);
+                connectSlots(curr_building.id);
+                curr_building.addEventListener("mousedown", bldg_click, false);
+            }
         },false);
+
+        function bldg_click(){
+
+        }
+
+        function connectSlots(id){
+            if(!bo_connected.get(id)){
+                bo_connected.set(id, true);
+            }
+        }
     </script>
 </html>
